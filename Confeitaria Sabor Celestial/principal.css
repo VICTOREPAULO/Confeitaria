@@ -1,0 +1,19 @@
+.logo{
+    width: 10%;
+    text-align:center;
+}
+body{
+    background-color: #DF2F4F;
+}
+.divLogo{
+    text-align: left;
+    
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: right;
+    background-color: brown;
+    padding: 10px;
+}
+
