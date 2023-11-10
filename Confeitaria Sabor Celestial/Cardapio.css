@@ -1,0 +1,14 @@
+.divLogo{
+    text-align:center;
+    position:static;
+    right: 35%;
+        
+    }
+.logo{
+    width: 10%;
+}
+
+body{
+    background-color:darkmagenta;
+    
+}
